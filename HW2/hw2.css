@@ -1,0 +1,113 @@
+
+
+
+header {
+    border: 1px solid rgb(7, 7, 7);
+    width: 99,99%;
+    height: 140px;
+    background-color: white;
+    font-family: 'Roboto';
+    margin: 5px;
+    padding: 1%;
+}
+
+body{
+    width: 99,99%;
+    background-color: white;
+    font-family: 'Roboto';
+    margin: 1%;
+    padding: 1%;
+    background-image: url(https://static.tildacdn.com/tild3565-6135-4261-b138-613866313633/fon.png);
+}
+
+
+h1 h2 h3 h4 {
+    font-family: 'Roboto';
+}
+.hdr_text{
+    text-align: center;
+    vertical-align: middle;
+    margin: 1%;
+}
+.body_text1{
+    text-align: center;
+    vertical-align: middle;
+    margin: 1%;
+    font-size: xx-large;
+}
+.body_text2{
+    font-family: 'Nunito', sans-serif;
+    text-align: left;
+    font-style: normal;
+    font-size: x-large;
+}
+
+
+
+a {
+    color: rgb(18, 4, 111);
+    display: inline-block;
+    text-decoration: none;
+    font-size: large;
+    margin: 0.5%;
+}
+.botton_ref1 {
+    display:block;
+    width: 20%;
+    margin: 0.5%;
+    padding: 9px 17px;
+    background:#a8aea9;
+    color:#fff!important;
+    text-decoration:none;
+    font-size:17px;
+    text-align: center;
+    border: 2px solid #c5baba;
+    border-radius: 15px;
+  }
+  
+  
+#menu, #menu li {
+    margin: 0;
+    padding: 0;
+}
+#menu {
+    max-width: 99.99%;
+    margin: 0 auto;
+    text-align: center;
+    background: #a2a5a7;
+}
+#menu li{
+    display:inline-block;
+    text-align: center;
+}
+#menu a {
+    display: block;
+    padding: 5px 15px;
+    color: #fff;
+   font-size: small;
+   text-decoration: none;
+}
+#menu a:hover {
+    background: #191a19;
+}
+
+
+
+img {
+    image-rendering: pixelated;
+}
+.hdr {
+    float: left;
+    height: 120px;
+    width: 240px;
+}
+
+footer{
+    width: 99.99%;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    background-color: #191a19;
+    color: white;
+    text-align: left;
+}
